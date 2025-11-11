@@ -1,7 +1,7 @@
 # Problem Statement — Department Salary Manager
 
 ## Objective
-Create PL/SQL procedures and anonymous blocks to demonstrate **Collections**, **Records**, and **GOTO statements** using a simple department salary management example.
+Create PL/SQL procedures and anonymous blocks to demonstrate **Collections**, *Records*, and *GOTO statements* using a simple department salary management example.
 
 ## Requirements
 - Use Associative Array, VARRAY, and Nested Table.
